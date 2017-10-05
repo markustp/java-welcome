@@ -18,13 +18,7 @@
 </nav>
 <div class="container" ng-controller="appController">
     <div class="panel-body">
-        <table class="table table-striped" ng-show="customers.length!=0">
-            <tr><th>Username</th><th>Age</th></tr>
-            <tr ng-repeat="customer in customers">
-                <td>{{ customer.NAME }}</td>
-                <td>{{ customer.AGE }}</td>
-            </tr>
-        </table>
+        <img alt="Brand" src="https://www.acando.no/ressurs/acando/images/system/acando_logo_300x100.png">
     </div>
 </div>
 </body>
