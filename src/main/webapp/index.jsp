@@ -19,6 +19,7 @@
 <div class="container" ng-controller="appController">
     <div class="panel-body">
         <img alt="Brand" src="https://www.acando.no/ressurs/acando/images/system/acando_logo_300x100.png">
+        <img alt="Brand" src="https://www.acando.no/ressurs/acando/images/system/jobb.jpg">
     </div>
 </div>
 </body>
